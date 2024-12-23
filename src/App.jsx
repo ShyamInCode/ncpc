@@ -41,7 +41,7 @@ function App() {
     };
   
     // Update this URL to your deployed form-renderer.js location
-    const rendererUrl = 'https://your-username.github.io/repo-name/form-renderer.js';
+    const rendererUrl = 'https://shyamincode.github.io/form-renderer/';
   
     const script = `
       <script>
